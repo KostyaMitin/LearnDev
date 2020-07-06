@@ -1,2 +1,2 @@
 # LearnDev
-Lear Web Development
+Learn Web Development
