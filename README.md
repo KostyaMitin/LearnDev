@@ -1,2 +1,0 @@
-# LearnDev
-Learn Web Development
